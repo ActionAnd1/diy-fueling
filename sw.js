@@ -1,6 +1,6 @@
 const CACHE = 'pwa-v1';
 const ASSETS = [
-  'DIYfueling.html',
+  'DIYfueling_PWA.html',
   'manifest.json',
   'icons/icon-192.png',
   'icons/icon-512.png',
