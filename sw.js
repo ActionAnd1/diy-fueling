@@ -1,10 +1,10 @@
 const CACHE = 'pwa-v1';
 const ASSETS = [
-  '/diy-fueling/DIYfueling.html',
-  '/diy-fueling/manifest.json',
-  '/diy-fueling/icons/icon-192.png',
-  '/diy-fueling/icons/icon-512.png',
-  '/diy-fueling/icons/apple-touch-icon-180.png'
+  'DIYfueling.html',
+  'manifest.json',
+  'icons/icon-192.png',
+  'icons/icon-512.png',
+  'icons/apple-touch-icon-180.png'
 ];
 
 self.addEventListener('install', (event) => {
