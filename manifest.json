@@ -1,8 +1,8 @@
 {
   "name": "DIY Getränke-/Gel-Rechner",
   "short_name": "DIY Fuel",
-  "start_url": "/diy-fueling/DIYfueling.html",
-  "scope": "/diy-fueling/",
+  "start_url": "./DIYfueling_PWA.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#0b0b0c",
   "theme_color": "#326464",
