@@ -1,0 +1,23 @@
+{
+  "name": "DIY Getränke-/Gel-Rechner",
+  "short_name": "DIY Fuel",
+  "start_url": "/diy-fueling/DIYfueling.html",
+  "scope": "/diy-fueling/",
+  "display": "standalone",
+  "background_color": "#0b0b0c",
+  "theme_color": "#326464",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
